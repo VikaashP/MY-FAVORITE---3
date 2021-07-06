@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: black;
+    text-align-last: center;
+}
+
+p {
+    color: white;
+}
+
+.color {
+    width: 250px;
+    height: 250px;
+}
+
+.album_1 {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.album {
+    display: all;
+    justify-content: center;
+}
+.line {
+    height: 6px;
+    background-color: white;
+    width: 1500px;
+    margin: 8px auto;
+}
